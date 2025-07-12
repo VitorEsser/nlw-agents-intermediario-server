@@ -8,6 +8,13 @@
       "when": 1752150765408,
       "tag": "0000_warm_master_chief",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752223469511,
+      "tag": "0001_bizarre_mandroid",
+      "breakpoints": true
     }
   ]
 }
