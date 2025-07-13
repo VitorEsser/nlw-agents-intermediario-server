@@ -15,6 +15,13 @@
       "when": 1752223469511,
       "tag": "0001_bizarre_mandroid",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752417138879,
+      "tag": "0002_warm_firedrake",
+      "breakpoints": true
     }
   ]
 }
